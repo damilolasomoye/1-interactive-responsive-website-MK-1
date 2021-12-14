@@ -1,1 +1,1 @@
-# A simple webpage for a company website built using HTML, CSS and Javascript
+# A simple interactive and responsive webpsite for a company website built using HTML, CSS and Javascript
